@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	When you initialize a repository, it creates a .git file that makes the folder a git repository. To do this, you need to type the command 'git init'
